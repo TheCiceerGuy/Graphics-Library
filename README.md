@@ -11,7 +11,7 @@ Make sure you have installed Code::Blocks IDE on your machine. If you don't have
 
 ## 2. Download the required header files
 We need few files to be included in the lib folder of Code::Blocks.
-Download the files from here https://github.com/SagarGaniga/Graphics-Library
+Download the files from here https://github.com/TheCiceerGuy/Graphics-Library
 
 ## 3. Include graphics.h and winbgim.h
 Copy and Paste the graphics.h and winbgim.h files into include folder of Code::Blocks directory.
@@ -37,5 +37,5 @@ Path: C:\Program Files (x86)\CodeBlocks\MinGW\lib
    * Save the setting and restart the application
 
 ### To test the setting copy paste any computer graphics code from 
-https://github.com/SagarGaniga/computer-graphics
+https://github.com/TheCiceerGuy/computer-graphics
 
